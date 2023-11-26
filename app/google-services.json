@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70034934568",
+    "project_id": "newswave-fcb51",
+    "storage_bucket": "newswave-fcb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70034934568:android:a0a102e10fdfd1050a5e1d",
+        "android_client_info": {
+          "package_name": "com.example.newswave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4wXxY23feKxB4Gz3EzUzDqzUZGbRNdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
